@@ -43,6 +43,21 @@ a:hover {
     margin-top: 8px;
 }
 
+.outros-contatos {
+    text-align: center;
+}
+
+.outros-contatos h3 {
+    margin-bottom: 20px;
+}
+
+.outros-contatos a {
+    display: inline-block; 
+    margin: 0 10px 50px; 
+    font-size: 20px;
+}
+
+
 .fullscreen-section {
     min-height: 100vh;
     display: flex;
