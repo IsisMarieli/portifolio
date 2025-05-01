@@ -34,6 +34,15 @@ a:hover {
     color: #309afd
 }
 
+.btn-prototipo{
+    margin-left: 10px;
+    margin-bottom: 10px
+}
+
+.descricao{
+    margin-top: 8px;
+}
+
 .fullscreen-section {
     min-height: 100vh;
     display: flex;
