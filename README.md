@@ -60,7 +60,7 @@ Todas as imagens e o vídeo usados no portfólio estão organizados nas pastas `
 
 ## 🚀 Como Visualizar
 
-Você pode abrir o arquivo `index.html` diretamente no navegador ou fazer o deploy em plataformas como o [Vercel](https://portifolio-theta-lovat.vercel.app/#sobreMim).
+Você pode abrir o arquivo `index.html` diretamente no navegador ou fazer o deploy em plataformas como o [Vercel](https://portifolio-theta-lovat.vercel.app).
 
 ## 📬 Contato
 
