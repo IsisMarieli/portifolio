@@ -67,4 +67,5 @@ Você pode abrir o arquivo `index.html` diretamente no navegador ou fazer o depl
 Sinta-se à vontade para entrar em contato comigo pelas redes sociais ou email disponíveis na seção de contatos do portfólio!
 
 ---
+(OBS: Portfólio Acadêmico)
 
